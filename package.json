@@ -1,0 +1,12 @@
+{
+  "name": "media-embed",
+  "version": "1.0.0",
+  "description": "url to embed media card",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/jshimazu/media-embed.git",
+    "type": "git"
+  },
+  "author": "jshimazu",
+  "license": "MIT"
+}
